@@ -21,8 +21,4 @@ This repository is helpful for beginners who want to understand Python concepts 
 
 ---
 
-## How to Use ⚡
 
-1. Clone this repository:
-```bash
-git clone https:github.com/kishu20112002 
