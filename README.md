@@ -25,4 +25,4 @@ This repository is helpful for beginners who want to understand Python concepts 
 
 1. Clone this repository:
 ```bash
-git clone httpsgithub.com/kishu20112002 
+git clone https:github.com/kishu20112002 
